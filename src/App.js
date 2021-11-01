@@ -10,7 +10,10 @@ function App() {
       </header>
       <div className="navBar">
       <div className="button3">
-      Visualizza repos – Aggiorna repos – Nuovo utente
+      <a href="http://localhost:3000/">Visualizza repos</a>
+      <a href="http://localhost:3000/">Aggiorna repos</a>
+      <a href="http://localhost:3000/">Visualizza repos</a>
+      – Aggiorna repos – Nuovo utente
       </div>
       <div className="logo"> LOGO </div>
       </div>
